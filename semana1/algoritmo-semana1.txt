@@ -1,0 +1,9 @@
+Actividad práctica de algoritmia
+1.	Buscar la información en internet. 
+2.	Revisar quién es el autor o la página que publica la información. 
+3.	Comparar la noticia con otras fuentes confiables. 
+4.	Verificar la fecha de publicación. 
+5.	Analizar si la información tiene pruebas, datos o referencias. 
+6.	Identificar si el título es exagerado o engañoso. 
+7.	Pensar si la información es útil y verdadera. 
+8.	Compartir la información solo si es confiable.
