@@ -1,0 +1,3 @@
+Repositorio : el repositorio es una carpeta donde se nos permite almacenar informacion.
+Commit:el commit es un comando el cual nos permite realizar una fotografia de todo lo que hemos realizado.
+Push: el Push es el que nos permite enviar toda nuestra informacion o todos los cambios realizados que hagamos en una terminal para enviarlo a nuestro repositorio en git.
