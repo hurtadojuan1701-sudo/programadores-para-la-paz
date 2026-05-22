@@ -1,0 +1,1 @@
+B.Define cómo responde el servidor cuando un usuario accede a una URL
