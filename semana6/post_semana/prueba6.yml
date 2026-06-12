@@ -1,0 +1,22 @@
+info:
+  name: prueba6
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: https://fictional-meme-qvxw59qqvpqh67x5-3000.app.github.dev/
+  body:
+    type: json
+    data: |-
+      { "nombre": "juanda", 
+       "mensaje": "Hola comunidad como estan" 
+      } 
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
+​
