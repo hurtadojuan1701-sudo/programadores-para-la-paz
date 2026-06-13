@@ -1,0 +1,22 @@
+info:
+  name: segunda prueba7
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/reportes
+  body:
+    type: json
+    data: |
+      {
+        "tipo": "Ambiente",
+        "descripcion": "Acumulación de residuos en una zona comunitaria"
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
