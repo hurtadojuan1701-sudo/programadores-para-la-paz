@@ -1,0 +1,3 @@
+cuando ejecuto node server.js me corre el servidor correctamente
+en la terminal sale: Servidor ejecutándose en puerto 3000
+nos dice que el servidor esta funcionando y el api
