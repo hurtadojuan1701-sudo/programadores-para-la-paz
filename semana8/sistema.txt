@@ -1,0 +1,2 @@
+ el comando whoami nos muetra el sitio donde estamos trabajando o mejor dicho la plataforma
+el comando uname -a nos muestra la informacion basica de nuestro dispositivo

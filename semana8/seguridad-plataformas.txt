@@ -1,0 +1,5 @@
+ Revisión comunitaria
+Control estricto de accesos y roles
+Contraseñas seguras
+Datos ocultos
+Copias de seguridad automáticas
