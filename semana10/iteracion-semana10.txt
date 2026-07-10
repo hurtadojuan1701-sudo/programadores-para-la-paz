@@ -1,0 +1,7 @@
+las que escogeria primero son:  Reportar problemas de infraestructura y Votación de proyectos comunitarios.
+para mi son las mas importante porque Estas dos historias son las más importantes porque juntas activan el ciclo básico de participación ciudadana sin depender de terceros.
+significa que cumple estrictamente con la definición de hecho o en su efecto que estas cumpliendo con los objecgtivos a desarrollar.
+
+Funciona: Cumple los criterios de aceptación y el usuario puede usar la función sin errores.
+Fue probada: Se verificó manualmente que no rompe otras partes de la aplicación.
+Quedó registrada en Git: El código limpio se subió a la rama principal del repositorio.

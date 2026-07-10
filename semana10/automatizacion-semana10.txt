@@ -1,0 +1,3 @@
+el evento que acgtgiva el flujo es un reporte.
+el mensaje que se enviaria al telegram sera en de un reporte recibido.
+una de las informaciones que no se deberia enviar serian los  datos sentisibles. 
