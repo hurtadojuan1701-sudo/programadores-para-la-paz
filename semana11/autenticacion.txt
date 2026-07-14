@@ -1,0 +1,6 @@
+El login es el control de acceso que identifica a un usuario mediante sus credenciales para darle una experiencia personalizada y segura.
+
+ Las rutas deben protegerse para evitar que personas no autorizadas alteren datos del sistema o accedan a funciones administrativas críticas.
+
+nunca debe exponerse públicamente información sensible como datos personales (nombres, direcciones o cédulas) de los denunciantes, contraseñas,
+ ni reportes privados de investigación que puedan poner en riesgo la seguridad de la comunidad.

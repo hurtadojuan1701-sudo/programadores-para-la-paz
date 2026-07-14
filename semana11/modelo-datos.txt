@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos principales:
+- id 002
+- titulo almacenamiento de datos 
+- descripcion: recolector informacion del vecindario
+- fecha: 7//14/2026
+
+Propósito:
+Recolectar o almacenar informacion para un mejor desarrollo
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id  002a
+- causa_id : 002
+- usuario : juanito sucre
+- fecha: 7/11/
+
+Propósito:
+Registrar la informacion suministrada por los usuarios para facilitar el desarrolos de actividades.
