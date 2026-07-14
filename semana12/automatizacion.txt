@@ -1,0 +1,3 @@
+Evento: solicitud aprobada 
+Mensaje: “su solocirud fue creada en la plataforma”
+Información que no debe enviarse: cédulas, teléfonos, direcciones, comentarios sensibles o datos personales.

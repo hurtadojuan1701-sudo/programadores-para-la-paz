@@ -1,0 +1,16 @@
+1.Selección del problema: El ciudadano ingresa a la plataforma
+ y elige la categoría de su reclamo en un menú visual simple
+
+2. Carga de datos mínimos: El sistema solicita únicamente 
+ los datos obligatorios por ley para que el documento sea válido
+
+3.Generación automática del documento: Con la información ingresada,
+  la plataforma utiliza una plantilla legal preconfigurada y redacta automáticamente
+   el derecho de petición formal en cuestión de segundos
+
+4. Firma y envío (Los 3 clics): El ciudadano revisa el borrador en pantalla y activa 
+   el envío con tres acciones consecutivas en la interfaz: Clic 1 para validar sus datos,
+    Clic 2 para firmar digitalmente y Clic 3 para enviar formalmente el documento a la institución responsable.
+
+5.Radicación y seguimiento: El sistema conecta con el correo de la entidad pública, envía la petición y le 
+    devuelve al ciudadano un número de radicado único.

@@ -1,0 +1,4 @@
+Durante mucho tiempo se ha visto al desarrollo de software como algo puramente comercial o corporativo. 
+Sin embargo, este camino me demostró que herramientas tan sencillas como una base de datos bien organizada,
+ un flujo de trabajo en un tablero digital o una automatización de mensajes pueden nivelar la balanza frente 
+ a la burocracia institucional.

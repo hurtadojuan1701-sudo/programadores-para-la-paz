@@ -1,0 +1,22 @@
+Causa
+id : 003
+titulo: recaudacion de informacion de los usiarios.
+descripcion: recompilar informacion 
+fecha:7/14/2026
+
+Apoyo
+id :003a
+causa_id : 003
+nombre: Pablito
+fecha7/14/2026
+
+1 : Para qué sirve: Es el núcleo del sistema. Funciona como el registro central de todas las 
+problemáticas o iniciativas que la comunidad publica en la plataforma. Guarda la información 
+descriptiva del problema y el momento exacto en
+que se creó, permitiendo que la causa sea visible para que otros ciudadanos puedan conocerla.
+
+ 2:Para qué sirve: Funciona como el registro de participación. Sirve para contabilizar y
+  validar el respaldo ciudadano que recibe cada iniciativa.
+  Al incluir el campo causa_id, se conecta directamente con la entidad Causa,
+  lo que permite saber exactamente qué proyecto está apoyando cada persona y en
+   qué momento lo hizo, facilitando la generación de estadísticas de impacto social.
